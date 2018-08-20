@@ -1,3 +1,10 @@
+/**
+ * Разработано 20.08.2018
+ * Новогодний подарок
+ * @author Basov Stepan
+ * @version 1.6
+ */
+
 package CristmasGift;
 
 import Sweets.Sweets;

@@ -7,6 +7,7 @@ public class Cake extends Sweets {
 
     private int  unicIdentifiCake; //поля класса
 
+    //конструктор
     public Cake (String Name, int Wes, int Price, int unicIdentifiCake)
     {
         super(Name,Wes,Price);
